@@ -2,9 +2,9 @@
 Name=Nula Lang
 GenericName=Nula Programing Language
 Comment=Open terminal and use nula lang
-Exec=/usr/lib/zcr/Nula-ZCR/run-nula.sh
-Icon=/usr/lib/zcr/Nula-ZCR/nula-lang.png
+Exec=/usr/lib/lcr/Nula-LCR/run-nula.sh
+Icon=/usr/lib/lcr/Nula-LCR/nula-lang.png
 Terminal=false
 Type=Application
 Categories=System;
-Keywords=zcr;nula-lang;nula;nula-programing-language;
+Keywords=lcr;nula-lang;nula;nula-programing-language;
